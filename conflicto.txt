@@ -1,1 +1,2 @@
 Version A del mensaje
+Version B del mensaje
